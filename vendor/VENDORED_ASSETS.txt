@@ -1,0 +1,5 @@
+Vendored sources included in this repo pack:
+
+- jquery-main/ : extracted from user-uploaded jquery-main.zip
+  This adds the real jQuery source tree to the repo pack.
+  The local runtime asset path assets/js/jquery-3.7.1.min.js remains the repo pack copy used by help.html.
